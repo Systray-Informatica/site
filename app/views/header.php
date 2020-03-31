@@ -32,6 +32,7 @@
 
 			<div class="collapse navbar-collapse" id="menu_lista">
 				<ul class="nav navbar-nav navbar-right">
+				<li class="link_menu"><a href="?i=home">Home</a></li>
 					<li class="link_menu"><a href="?i=sobre">Sobre</a></li>
 					<li class="link_menu"><a href="?i=solucoes">Soluções</a></li>
 					<li class="link_menu"><a href="?i=contato">Fale Conosco</a></li>
