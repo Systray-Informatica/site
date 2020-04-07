@@ -17,7 +17,10 @@ p{color: blanchedalmond;font-size: 18px;}
 #blast { margin: 50px 0;}
 #p1 { text-align: justify; color:#A9A9A9; font-size: 18px;}
 #p2 { text-align: justify; color:#4F4F4F; font-size: 18px;}
+#p3 { text-align: center; color:#4F4F4F; font-size: 14px;}
+#p4 { text-align: center; columns: #222322; font-size: 18px;}
 #clientes { padding: 50px 0 50px 0; background: #4682B4;}
+#diversos { padding: 50px 0 50px 0; background: #DCDCDC; }
 
 .lista_footer { margin-top:35px; }
 .link_menu { margin-top:20px; }
