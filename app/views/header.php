@@ -19,7 +19,7 @@
 			
 		    <div class="navbar-header">
 		    	<!-- LOGO -->
-		    	<a href="?i=home" alt="systray - home" title="Home"><img id="logo" src="app/img/logo_systray.png" width="50px"></a>
+		    	<a href="?i=home" alt="systray - home" title="Home"><img id="logo" src="app/img/logo_systray_lado.png" width="80px"></a>
 
 		    	<!-- SMARTPHONE -->
 				<button type="button" style="margin-top:25px" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu_lista" aria-expanded="false">
