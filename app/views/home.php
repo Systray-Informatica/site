@@ -1,12 +1,11 @@
 <div id="main">
 	<div class="container">
 		<div class="center">
-			<span style="color:blanchedalmond; font-size: 40px; text-align: center">SYSTRAY CONSULTORIA EM SISTEMAS</span>
+			<span style="color:blanchedalmond; font-size: 40px; text-align: center">SYSTRAY DESENVOLVIMENTO DE SISTEMAS</span>
 		</div>
 		<br>
 		<div class="row">
-			<div class="col-md-4 col-xs-12">
-				<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+			<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
 					<!-- PONTOS REPRESENTATIVOS DE IMAGENS -->
 					<ol class="carousel-indicators">
@@ -18,45 +17,45 @@
 					<!-- IMAGENS -->
 					<div class="carousel-inner" role="listbox">
 						<div class="item active">
-							<img src="app/img/logo_systray.png" class="center mx-auto d-block w-100" alt="Systray">
-							<div class="carousel-caption">
-								Sistema para gestão de projetos, chamados, atendimentos e tarefas.
+							<img src="app/img/systray_logo.png" width="299px" class="align-top" alt="Systray">
+							<div class="carousel-caption align-text-bottom">
+							Sistema para gestão de projetos, chamados, atendimentos e tarefas.
 							</div>
 						</div>
 
 						<div class="item">
-							<img src="app/img/professor.png" class="center mx-auto d-block w-100" alt="Professor">
-							<div class="carousel-caption">
-								Sistema para procura de professores particulares.
+							<img src="app/img/professor.png" width="248px" class="center mx-auto d-block w-100" alt="Professor">
+							<div class="carousel-caption text-right">
+							Site para procura de professores particulares.
 							</div>
 						</div>
 
 						<div class="item">
-							<img src="app/img/condominio.png" class="center mx-auto d-block w-100" alt="Condominios">
-							<div class="carousel-caption">
-								Sistema de Gestão de Condomínios.
+							<img src="app/img/condominio.png" width="266px" class="center mx-auto d-block w-100" alt="Condominios">
+							<div class="carousel-caption text-right">
+							Sistema para gestão de Condomínios.
 							</div>
 						</div>
 
 					</div>
-
-					<!-- CONTROLES -->
-					<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-						<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-						<span class="sr-only">Anterior</span>
-					</a>
-					<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-						<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-						<span class="sr-only">Próximo</span>
-					</a>
+					
+						<!-- CONTROLES -->
+						<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+							<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+							<span class="sr-only">Anterior</span>
+						</a>
+						<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+							<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+							<span class="sr-only">Próximo</span>
+						</a>
 				</div>
 			</div>
-			<div class="col-md-8 col-xs-12">
+			<!--<div class="col-md-7 col-xs-12">
 				<h3 style="color:blanchedalmond; text-align:center">SIMPLIFICANDO A VIDA DE NOSSOS CLIENTES</h3>
 				<div id="p5">Pensando em como facilitar a vida das pessoas, a Systray Informática desenvolve soluções utilizando metologias ágeis para gestão de projetos e tecnologias atuais.</div>
 				<div id="p5">Contando com uma equipe altamente capacitada e treinada, entregamos qualidade em atendimento, serviço e tecnologia, oferecendo soluções inteligentes que simplificam a vida dos nossos clientes.</div>
-			</div>
-		</div>
+			</div>-->
+					</div>
 	</div>
 </div>
 <div id="middle">
