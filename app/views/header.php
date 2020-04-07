@@ -36,7 +36,7 @@
 					<li class="link_menu"><a href="?i=sobre">Sobre</a></li>
 					<li class="link_menu"><a href="?i=solucoes">Soluções</a></li>
 					<li class="link_menu"><a href="?i=contato">Fale Conosco</a></li>
-					<li class="link_menu"><a href="?i=chamado">Chamados</a></li>
+					<!--<li class="link_menu"><a href="?i=chamado">Chamados</a></li>-->
 					<!-- <li class="link_menu"><a href="#help">Ajuda</a></li> -->
 				</ul>
 			</div>

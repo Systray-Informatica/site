@@ -5,7 +5,7 @@
 			<div class="col-md-1 lista_footer"><a href="?i=sobre">Sobre</a></div>
 			<div class="col-md-1 lista_footer"><a href="?i=solucoes">Soluções</a></div>
 			<div class="col-md-1 lista_footer"><a href="?i=contato">Contato</a></div>
-			<div class="col-md-1 lista_footer"><a href="?i=chamado">Chamados</a></div>
+			<!--<div class="col-md-1 lista_footer"><a href="?i=chamado">Chamados</a></div>-->
 			<!-- <div class="col-md-1 lista_footer"><a href="#">Ajuda</a></div> -->
 		</div>
 		<div class="row">

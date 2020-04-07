@@ -8,7 +8,7 @@
 		<div class="row"> 
 			<div class="col-sm-6 col-md-4"> 
 				<div class="thumbnail"> 
-					<img src="app/img/f1.jpg" class="img-thumbnail"> 
+					<img src="app/img/condominio.jpg" width="200px" class="img-thumbnail"> 
 
 					<div class="caption"> 
 						<h3>Gestão de Condomínios</h3>
@@ -22,7 +22,7 @@
 
 			<div class="col-sm-6 col-md-4"> 
 				<div class="thumbnail"> 
-					<img src="app/img/f2.jpg" class="img-thumbnail"> 
+					<img src="app/img/logo_systray.png" width="200px" class="img-thumbnail"> 
 					<div class="caption"> 
 						<h3>Atendimento/Chamados</h3> 
 						<div id="p1">Conheça uma ferramenta que o ajudará a gerenciar seus projetos, 
@@ -35,7 +35,7 @@
 			
 			<div class="col-sm-6 col-md-4"> 
 				<div class="thumbnail"> 
-					<img src="app/img/f3.jpg" class="img-thumbnail"> 
+					<img src="app/img/professor.jpg" width="185px" class="img-thumbnail"> 
 					<div class="caption"> 
 						<h3>Professores Particulares</h3> 
 						<div id="p1">Está precisando de professores particulares? Acesse nosso site e conheça uma forma 
