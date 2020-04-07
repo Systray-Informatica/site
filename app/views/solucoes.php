@@ -12,7 +12,8 @@
 
 					<div class="caption"> 
 						<h3>Gestão de Condomínios</h3>
-						<div id="p1">Sistema para gestão de condomínios, onde é possível gerar cobrança através de boletos ou débito em conta, gerenciar os pagamentos realizados.</div>
+						<div id="p1">Nosso sistema para gestão de condomínios é ideal para empresas administradoras 
+							de condomínios, permitindo realizar a gestão financeira completa, entre outras funcionalidades.</div>
 						<br>
 						<p><a href="#" class="btn btn-primary" role="button">Saiba Mais</a></p> 
 					</div> 
@@ -24,7 +25,8 @@
 					<img src="app/img/f2.jpg" class="img-thumbnail"> 
 					<div class="caption"> 
 						<h3>Atendimento/Chamados</h3> 
-						<div id="p1">Conheça uma ferramenta que o ajudará a gerenciar os chamados as tarefas de toda a sua equipe. Automatize seu atendimento e reduza seus custos.</div>
+						<div id="p1">Conheça uma ferramenta que o ajudará a gerenciar seus projetos, 
+							seus tickets e as tarefas de toda a sua equipe. Automatize seu atendimento e reduza seus custos.</div>
 						<br>
 						<p><a href="#" class="btn btn-primary" role="button">Saiba Mais</a></p>
 					</div> 
@@ -35,8 +37,9 @@
 				<div class="thumbnail"> 
 					<img src="app/img/f3.jpg" class="img-thumbnail"> 
 					<div class="caption"> 
-						<h3>Pofessores Particulares</h3> 
-						<div id="p1">Conheça nossa ferramenta que irá facilitar sua vida na árdua tarefa de encontrar professores particulares. Contamos com inúmeros profissionais.</div> 
+						<h3>Professores Particulares</h3> 
+						<div id="p1">Está precisando de professores particulares? Acesse nosso site e conheça uma forma 
+							fácil de encontrar os diversos profissionais que se encontram perto de você.</div> 
 						<br>
 						<p><a href="#" class="btn btn-primary" role="button">Saiba Mais</a></p>
 					</div> 

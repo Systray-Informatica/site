@@ -1,7 +1,7 @@
 <footer>
 	<div class="container">
 		<div class="row">
-			<div class="col-md-2"><a href="#"><img id="logo" src="app/img/logo.svg"></a></div>
+			<div class="col-md-2"><a href="#"><img id="logo" src="app/img/logo_systray.png" width="50px"></a></div>
 			<div class="col-md-1 lista_footer"><a href="?i=sobre">Sobre</a></div>
 			<div class="col-md-1 lista_footer"><a href="?i=solucoes">Soluções</a></div>
 			<div class="col-md-1 lista_footer"><a href="?i=contato">Contato</a></div>

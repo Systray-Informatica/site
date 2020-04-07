@@ -9,7 +9,7 @@
 			<div class="col-md-6 col-md-offset-3">
 				<div id="p2">Nascida em 2019, a <b>Systray informática,</b> foi fundada com o intuito de fornecer soluções que ajudem a vida das pessoas. Estamos sempre pensando em como facilitar a vida das pessoas.</div>
 				<br>
-				<div id="p2">Utilizando metodologias, técnicas e as tecnologias mais atuais, somos inspirados e motivadors em transformar ideias em realizações.</div>
+				<div id="p2">Utilizando metodologias, técnicas e tecnologias atualizadas, somos inspirados e motivados em transformar ideias em realizações.</div>
 				<br>
 				<div id="p2">Contando com uma equipe especializa, qualificada e apaixonada pelo que faz, estamos aptos a desenvolver aplicativos, softwares e outras soluções sob medida e inovadoras para impulsionar o seu negócio. Damos todo o suporte, atenção e consultoria necessária para tirar a sua ideia do papel e transformar em realidade.</div>
 			</div>
@@ -42,10 +42,10 @@
 				</div>
 				<br>
 				<div class="caption">
-					<div id="p1"><b>Valorização:</b> Trabalhamos com pessoas e por isso as tratamos como indivíduos. Valorizamos e incentivamoa suas habilidades, capacidades e cresimento contínuo.</div><br>
+					<div id="p1"><b>Valorização:</b> Trabalhamos com pessoas e por isso as tratamos como indivíduos. Valorizamos e incentivamos suas habilidades, capacidades e crescimento contínuo.</div><br>
 					<div id="p1"><b>Ética:</b> Trabalhamos com ética, verdade e justiça em tudo o que fazemos e com todos os nossos colaboradores e clientes.</div><br>
 					<div id="p1"><b>Qualidade:</b> Buscamos a máxima qualidade no nosso trabalho e nas pessoas, de forma que possamos entregar o melhor trabalho aos nossos clientes.</div><br>
-					<div id="p1"><b>Satisfação do Cliente:</b> Buscamos entender, da melhor maneira possível, as necessidades dos clientes para deixá-los felizes e contentes.</div>
+					<div id="p1"><b>Satisfação do Cliente:</b> Buscamos entender, da melhor maneira possível, as necessidades dos clientes para deixá-los felizes e satisfeitos com nosso trabalho.</div>
 				</div>
 			</div>
 		</div>
