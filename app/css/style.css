@@ -1,31 +1,30 @@
 /* Style.css */
 * { margin:0; padding: 0; }
-footer { background-color: #222; min-height: 180px; color:#999; padding:40px; }
-header { background-color: #111; }
-nav { min-height: 90px; margin-bottom: 0 !important;  }
+footer { background-color: blanchedalmond; min-height: 150px; color:#999; padding:20px 0 0 10; }
+header { background-color: blanchedalmond; min-height: 80px;}
+nav { min-height: 90px; margin-bottom: 0 !important; }
 h1{color: blanchedalmond;}
 h2{color: blanchedalmond;}
 p{color: black;font-size: 18px;}
 
-#main { padding: 50px; background: linear-gradient(135deg, #4682B4 0%,rgb(0,128,128) 100%);  }
+#main { padding: 20px 0 20px 0; background-image: url(../img/fundo_topo.png); background-size: 1400px 295px; background-repeat: no-repeat; }
 #main img  { max-height: 400px; }
-#middle { margin: 50px 0;}
+#middle { margin: 50px 0; background: white}
 #logo { margin:20px 0; }
 #navegar { margin: 50px 0;}
-#sobre {margin: 50px 0;  }
+#sobre {margin: 50px 0; }
 #sobre p { text-align: justify; color:#FFFFFF; font-size: 18px; line-height: 1.8; padding-top:20px;}
 #blast { margin: 50px 0;}
 #p1 { text-align: justify; color:#A9A9A9; font-size: 18px;}
 #p2 { text-align: justify; color:#4F4F4F; font-size: 18px;}
-#p3 { text-align: center; color:#4F4F4F; font-size: 14px;}
-#p4 { text-align: center; columns: #222322; font-size: 18px;}
+#p3 { text-align: center; color:#4F4F4F; font-size: 16px;}
+#p4 { text-align: center; columns:; font-size: 18px;}
 #p5 { text-align: center; color: blanchedalmond; font-size: 16px;}
-#clientes { padding: 50px 0 50px 0; background: #4682B4;}
+#clientes { padding: 100px 0 100px 0; background: #4682B4;}
 #diversos { padding: 50px 0 50px 0; background: #DCDCDC; }
-
 
 .lista_footer { margin-top:35px; }
 .link_menu { margin-top:20px; }
-.link_menu a{ color:#FFFFFF !important; padding:10px;  }
-.link_menu a:hover{ background-color:#FFFFFF !important; color:#111 !important; }
+.link_menu a{ color:#8F1B01 !important; padding:10px;  }
+.link_menu a:hover{ background-color:#8F1B01 !important; color:whitesmoke !important; }
 .center { text-align: center }
