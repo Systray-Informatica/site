@@ -1,12 +1,11 @@
-<div id="main" class="center">
-	<span style="color:blanchedalmond; font-size: 30px">SYSTRAY INFORMÁTICA</span>
-	<p>TRANFOSMANDO IDEIAS EM REALIZAÇÕES</p>
+<div id="main" class="center" style="padding: 120px;">
+	<span style="color:white; font-size: 40px;">NOSSA HISTÓRIA</span>
 </div>
 
 <div id="sobre">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6 col-md-offset-3">
+			<div class="col-md-12 col-md-offset-4">
 				<div id="p2">Nascida em 2019, a <b>Systray informática,</b> foi fundada com o intuito de fornecer soluções que ajudem a vida das pessoas. Estamos sempre pensando em como facilitar a vida das pessoas.</div>
 				<br>
 				<div id="p2">Utilizando metodologias, técnicas e tecnologias atualizadas, somos inspirados e motivados em transformar ideias em realizações.</div>
@@ -19,7 +18,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-6 col-md-4 col-lg-4">
-				<div align="center">
+				<div class="text-center">
 					<img src="app/img/missao.jpg" class="mb-4">
 				</div>
 				<br>

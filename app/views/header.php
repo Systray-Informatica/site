@@ -14,33 +14,31 @@
 <body>
 
 <header>
-	<nav class="navbar navbar-inverse fixed-top">
-		<div class="container">
-			
-		    <div class="navbar-header">
-		    	<!-- LOGO -->
-		    	<a href="?i=home" alt="systray - home" title="Home"><img id="logo" src="app/img/logo_systray_lado.png" width="80px"></a>
-
-		    	<!-- SMARTPHONE -->
-				<button type="button" style="margin-top:25px" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu_lista" aria-expanded="false">
-					<span style="background-color:#FFFFFF" class="icon-bar"></span>
-					<span style="background-color:#FFFFFF" class="icon-bar"></span>
-					<span style="background-color:#FFFFFF" class="icon-bar"></span>
-				</button>
-				
-		    </div>
-
-			<div class="collapse navbar-collapse" id="menu_lista">
-				<ul class="nav navbar-nav navbar-right">
-				<li class="link_menu"><a href="?i=home">Home</a></li>
-					<li class="link_menu"><a href="?i=sobre">Sobre</a></li>
-					<li class="link_menu"><a href="?i=solucoes">Soluções</a></li>
-					<li class="link_menu"><a href="?i=contato">Fale Conosco</a></li>
-					<!--<li class="link_menu"><a href="?i=chamado">Chamados</a></li>-->
-					<!-- <li class="link_menu"><a href="#help">Ajuda</a></li> -->
-				</ul>
-			</div>
-
+	<nav class="navbar navbar-expand-md navbar-light">
+	<div class="container" >
+    	<div class="navbar w-100 order-1 order-md-0" id="nav_link">
+        	<ul class="navbar-nav mr-auto">
+            	<li class="nav-item active">
+                <!-- LOGO -->
+		    		<a class="navbar-brand" href="?i=home" alt="systray - home" title="Home">
+					<img id="logo" src="app/img/systray_logo.png" width="60px">
+				</a>
+				</li>
+			</ul>
+			<button class="navbar-toggler" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu_lista" aria-expanded="false">
+				<span class="navbar-toggler-icon"></span>
+			</button>
 		</div>
-	</nav>
+		
+    	<div class="navbar-collapse collapse w-100 order-3 dual-collapse2" id="menu_lista">
+			<ul class="nav">
+				<li class="link_menu"><a href="?i=home">Home</a></li>
+				<li class="link_menu"><a href="?i=sobre">Sobre</a></li>
+				<li class="link_menu"><a href="?i=solucoes">Soluções</a></li>
+				<li class="link_menu"><a href="?i=contato">Fale Conosco</a></li>
+        	</ul>
+		</div>
+	</div>
+</nav>
+
 </header>
